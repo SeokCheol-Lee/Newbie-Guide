@@ -17,3 +17,13 @@
 ![a](doc/imgs/flow.png)
 
 
+### 기술적 고민
+- 자연어 처리(NLP)에서 언어 모델의 성능을 향상시키기 위해 사용되는 기술 고민
+
+  https://vamlin.tistory.com/19
+- PDF 문서를 통해 대량의 데이터 임베딩 저장
+
+  https://vamlin.tistory.com/21
+- 프로젝트에 적합한 Vector Database 선정
+
+  https://vamlin.tistory.com/22
